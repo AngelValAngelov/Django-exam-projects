@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ada79ea2-6827-4117-a82b-b84405b80d69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../employees/employees/template_examples/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0002_rename_employee_employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0003_rename_employees_employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0004_alter_employee_last_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0005_employee_egn_alter_employee_last_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0006_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0007_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0008_alter_employee_first_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0009_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0010_alter_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0011_remove_employee_job_title_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0012_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0013_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0014_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0015_address_city_alter_address_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0016_remove_address_id_alter_address_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0017_department_employee_department.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0018_alter_employee_options_department_created_on_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0019_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0020_employee_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0002_pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0003_petphoto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0004_alter_petphoto_photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0005_rename_pictures_profile_picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0006_alter_profile_gender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/expenses_tracker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/0002_alter_expense_options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/validators/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/validators/validators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_3w6dH6t.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_J82DkBq.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_OoyTwf6.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_QtJwn7v.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_Wt4bON7.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/images/dollar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/base/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/home-no-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/home-with-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile-delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IW48bBe6EYSj2SPv6IZysqoDkO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada79ea2-6827-4117-a82b-b84405b80d69" name="Changes" comment="" />
+      <created>1670283847753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670283847753</updated>
+      <workItem from="1670283849211" duration="394000" />
+      <workItem from="1670420648525" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
