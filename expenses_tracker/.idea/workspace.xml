@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c51729db-e0d2-4205-aceb-da753bdf42c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../employees/employees/template_examples/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0002_rename_employee_employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0003_rename_employees_employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0004_alter_employee_last_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0005_employee_egn_alter_employee_last_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0006_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0007_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0008_alter_employee_first_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0009_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0010_alter_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0011_remove_employee_job_title_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0012_employee_job_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0013_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0014_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0015_address_city_alter_address_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0016_remove_address_id_alter_address_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0017_department_employee_department.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0018_alter_employee_options_department_created_on_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0019_alter_employee_egn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/0020_employee_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employees/employees/web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses_tracker/web/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses_tracker/web/migrations/0002_alter_expense_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses_tracker/web/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0002_pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0003_petphoto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0004_alter_petphoto_photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0005_rename_pictures_profile_picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0006_alter_profile_gender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IQUKow93wuN6udkGUnLsnztKcu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python Web" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Angel\Desktop\expenses_tracker" />
+      <recent name="C:\Users\Angel\Desktop\expenses_tracker\expenses_tracker" />
+      <recent name="C:\Users\Angel\Desktop\expenses_tracker\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="expenses_tracker" type="Python.DjangoServer" factoryName="Django server">
+      <module name="expenses_tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="expenses_tracker.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51729db-e0d2-4205-aceb-da753bdf42c7" name="Changes" comment="" />
+      <created>1670113240214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670113240214</updated>
+      <workItem from="1670113249480" duration="812000" />
+      <workItem from="1670114093728" duration="27997000" />
+      <workItem from="1670282157617" duration="1645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
