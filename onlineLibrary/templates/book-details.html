@@ -1,0 +1,42 @@
+{% extends 'base/base.html' %}
+{% block page_content %}
+
+    <body>
+    <div id="container">
+        <header id="site-header">
+
+            <nav class="navbar">
+                <section class="navbar-dashboard">
+                    <a href="{% url 'index' %}">Dashboard</a>
+                    <div id="user">
+                        <span>Welcome, {{ profile.first_name }}</span>
+                        <a class="button" href="{% url 'add book' %}">Add Book</a>
+                        <a class="button" href="{% url 'profile' %}">Profile</a>
+                    </div>
+                </section>
+            </nav>
+        </header>
+
+        <section id="details-page" class="details">
+            <div class="book-information">
+                <h3>{{ book.title }}</h3>
+                <p class="type">Type: {{ book.type }}</p>
+                <p class="img"><img src="{{ book.image }}" alt=""></p>
+                <div class="actions">
+                    <a class="button" href="{% url 'edit book' book.pk %}">Edit</a>
+                    <a class="button" href="{% url 'book delete' book.pk %}">Delete</a>
+                </div>
+            </div>
+            <div class="book-description">
+                <h3>Description:</h3>
+                <p>{{ book.description }}</p>
+            </div>
+        </section>
+
+        <footer id="site-footer">
+            <p>Python Web Basics Retake Exam @SoftUni</p>
+        </footer>
+    </div>
+    </body>
+
+{% endblock %}

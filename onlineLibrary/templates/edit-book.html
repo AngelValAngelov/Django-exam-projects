@@ -1,0 +1,37 @@
+{% extends 'base/base.html' %}
+{% block page_content %}
+
+    <body>
+    <div id="container">
+        <header id="site-header">
+
+            <nav class="navbar">
+                <section class="navbar-dashboard">
+                    <a href="{% url 'index' %}">Dashboard</a>
+                    <div id="user">
+                        <span>Welcome, {{ profile.first_name }}</span>
+                        <a class="button" href="{% url 'add book' %}">Add Book</a>
+                        <a class="button" href="{% url 'profile' %}">Profile</a>
+                    </div>
+                </section>
+            </nav>
+        </header>
+
+        <section id="edit-page" class="edit">
+            <form id="edit-form" action="{% url 'edit book' book.pk %}" method="post">
+                <fieldset>
+                    <legend>Edit Book</legend>
+                    {{ form }}
+                    {% csrf_token %}
+                    <input class="button submit" type="submit" value="Edit">
+                </fieldset>
+            </form>
+        </section>
+
+        <footer id="site-footer">
+            <p>Python Web Basics Retake Exam @SoftUni</p>
+        </footer>
+    </div>
+    </body>
+
+{% endblock %}
