@@ -1,6 +1,5 @@
 from pathlib import Path
 
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -8,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-zd4558*s7d*3-vk21e_$ksc!pkmnnq@_c5udn64_c!720jym+0'
+SECRET_KEY = 'django-insecure-1^*2qc1$9+i(+9_3xh8%l)9oory5ti7^@p#muem4(q938=^unj'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -24,7 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'recipes.web',
+    'onlineLibrary.web',
 ]
 
 MIDDLEWARE = [
@@ -37,7 +36,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'recipes.urls'
+ROOT_URLCONF = 'onlineLibrary.urls'
 
 TEMPLATES = [
     {
@@ -56,7 +55,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'recipes.wsgi.application'
+WSGI_APPLICATION = 'onlineLibrary.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
@@ -64,9 +63,9 @@ WSGI_APPLICATION = 'recipes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'recipes',
+        'NAME': 'online_library',
         'USER': 'postgres',
-        'PASSWORD': '##########',
+        'PASSWORD': '123qwer',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -105,9 +104,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
-STATICFILES_DIRS = [
-    BASE_DIR / 'static',
-]
+STATICFILES_DIRS = [BASE_DIR, 'static']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field

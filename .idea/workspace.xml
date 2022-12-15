@@ -32,67 +32,55 @@
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0005_rename_pictures_profile_picture.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0006_alter_profile_gender.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/expenses_tracker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/asgi.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses_tracker/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/0002_alter_expense_options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/validators/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/validators/validators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/web/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_3w6dH6t.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_J82DkBq.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_OoyTwf6.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_QtJwn7v.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/profiles/profile_Wt4bON7.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/images/dollar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/static/images/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/base/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-delete.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/expense-edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/home-no-profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/home-with-profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile-delete.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile-edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2IW48bBe6EYSj2SPv6IZysqoDkO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,9 +92,59 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/expenses_tracker" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="expenses_tracker" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,9 +152,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -129,6 +167,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/expenses_tracker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/expenses_tracker/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.expenses_tracker" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -139,11 +201,22 @@
       <option name="presentableId" value="Default" />
       <updated>1670283847753</updated>
       <workItem from="1670283849211" duration="394000" />
-      <workItem from="1670420648525" duration="318000" />
+      <workItem from="1670422552467" duration="39000" />
+      <workItem from="1670422709098" duration="237000" />
+      <workItem from="1670422984260" duration="22000" />
+      <workItem from="1670423050915" duration="149000" />
+      <workItem from="1670423216426" duration="18000" />
+      <workItem from="1670423313122" duration="1521000" />
+      <workItem from="1670444648017" duration="2908000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_web_exams$main.coverage" NAME="main Coverage Results" MODIFIED="1670423378616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_web_exams$expenses_tracker.coverage" NAME="expenses_tracker Coverage Results" MODIFIED="1670445394893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python_web_exams$manage.coverage" NAME="manage Coverage Results" MODIFIED="1670446747664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expenses_tracker" />
   </component>
 </project>

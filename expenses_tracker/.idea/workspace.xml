@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b72424a-956a-4e04-bf7d-932b4c447d42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/expenses_tracker/main/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../recipes/recipes/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +135,7 @@
       <workItem from="1670534314208" duration="764000" />
       <workItem from="1670535187762" duration="1816000" />
       <workItem from="1670537048868" duration="3413000" />
-      <workItem from="1670553904994" duration="378000" />
+      <workItem from="1670553904994" duration="979000" />
     </task>
     <servers />
   </component>
