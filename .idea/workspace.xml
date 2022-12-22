@@ -32,31 +32,7 @@
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0005_rename_pictures_profile_picture.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/0006_alter_profile_gender.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../petstagram/petstagram/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expenses_tracker/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/62e376a5-5b94-45ca-bddc-45c7b496e35e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/dataSources/764d729e-fbfa-40f2-8052-dfbe00c6fb95/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/expenses_tracker/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +68,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/expenses_tracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -171,6 +147,9 @@
       <module name="Python Web" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\Angel\Desktop\python_web_exams\expenses_tracker\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/expenses_tracker" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -208,6 +187,7 @@
       <workItem from="1670423216426" duration="18000" />
       <workItem from="1670423313122" duration="1521000" />
       <workItem from="1670444648017" duration="2908000" />
+      <workItem from="1671464413722" duration="228000" />
     </task>
     <servers />
   </component>
